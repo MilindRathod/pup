@@ -1,4 +1,4 @@
 import tkinter
-from tkinter
+from tkinter import *
 root=tk()
 root.geometry ()
