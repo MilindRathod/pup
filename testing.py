@@ -1,7 +1,7 @@
 from tkinter import *
 main=Tk()
 scroll-Scrollbar (main)
-scroll.pack(f1ll=Y,side-RIGHT)
+scroll.pack(f1ll=Y.side-RIGHT)
 #listbox
 lb=Listbox(main,yscrollcommand-scroll.set)
 for 1 in range(30):
